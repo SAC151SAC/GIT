@@ -1,0 +1,58 @@
+# 基础忽略规则
+.DS_Store
+Thumbs.db
+
+# Unity自动生成的文件夹
+/Library/
+/Temp/
+/obj/
+/Build/
+/Logs/
+/UserSettings/
+
+# 包管理相关
+/Packages/packages-lock.json
+/.upm/
+/.packages/
+
+# 本地配置文件
+/ProjectSettings/ProjectVersion.txt
+/ProjectSettings/QualitySettings.asset
+/ProjectSettings/AudioManager.asset
+/ProjectSettings/InputManager.asset
+/ProjectSettings/TagManager.asset
+/ProjectSettings/PlayerSettings.asset
+/ProjectSettings/TimeManager.asset
+/ProjectSettings/GraphicsSettings.asset
+/ProjectSettings/Physics2DSettings.asset
+/ProjectSettings/NavigationSettings.asset
+/ProjectSettings/NetworkManager.asset
+/ProjectSettings/EditorBuildSettings.asset
+/ProjectSettings/EditorSettings.asset
+/ProjectSettings/ScriptingDefinesAsset.asset
+
+# 平台特定文件
+/Assets/Plugins/Android/
+/Assets/Plugins/iOS/
+/Assets/Plugins/WSA/
+/Assets/Plugins/WebGL/
+
+# 测试相关
+/Assets/Tests/
+/Assets/TestResults/
+
+# 其他临时文件
+*.pid
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.userprefs
+*.csproj
+*.sln
+*.suo
+*.user
+*.unityproj
+*.DS_Store
+*.db
