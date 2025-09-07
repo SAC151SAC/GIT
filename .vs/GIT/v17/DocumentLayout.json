@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u767D\\\u5BB6\\GIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|c:\\users\\\u767D\\\u5BB6\\git\\assets\\script\\\u6218\u6597\u5355\u4F4D\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\\u6218\u6597\u5355\u4F4D\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|C:\\Users\\\u767D\\\u5BB6\\GIT\\assets\\script\\\u5BF9\u8C61\u6C60\\soldierpoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\\u5BF9\u8C61\u6C60\\soldierpoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|C:\\Users\\\u767D\\\u5BB6\\GIT\\assets\\script\\battledefines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\battledefines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|C:\\Users\\\u767D\\\u5BB6\\GIT\\assets\\script\\\u6218\u6597\u5355\u4F4D\\readonlyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\\u6218\u6597\u5355\u4F4D\\readonlyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|C:\\Users\\\u767D\\\u5BB6\\GIT\\assets\\script\\\u6218\u6597\u7CFB\u7EDF\u7BA1\u7406\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\\u6218\u6597\u7CFB\u7EDF\u7BA1\u7406\\battlesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|C:\\Users\\\u767D\\\u5BB6\\GIT\\assets\\script\\\u754C\u9762\u8DF3\u8F6C\u4E0E\u8FDE\u63A5\u5BA2\u6237\u7AEF\\douyininteractivetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\\u754C\u9762\u8DF3\u8F6C\u4E0E\u8FDE\u63A5\u5BA2\u6237\u7AEF\\douyininteractivetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|C:\\Users\\\u767D\\\u5BB6\\GIT\\assets\\script\\\u6218\u6597\u5355\u4F4D\\battleunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\\u6218\u6597\u5355\u4F4D\\battleunit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|C:\\Users\\\u767D\\\u5BB6\\GIT\\assets\\script\\\u6218\u6597\u5355\u4F4D\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\\u6218\u6597\u5355\u4F4D\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|C:\\Users\\\u767D\\\u5BB6\\GIT\\assets\\script\\\u5BF9\u8C61\u6C60\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\\u5BF9\u8C61\u6C60\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|C:\\Users\\\u767D\\\u5BB6\\GIT\\assets\\script\\\u754C\u9762\u8DF3\u8F6C\u4E0E\u8FDE\u63A5\u5BA2\u6237\u7AEF\\buttoneventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94029750-9256-5971-5A0A-143F3837FB05}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\\u754C\u9762\u8DF3\u8F6C\u4E0E\u8FDE\u63A5\u5BA2\u6237\u7AEF\\buttoneventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadOnlyAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u6218\u6597\u5355\u4F4D\\ReadOnlyAttribute.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\\u6218\u6597\u5355\u4F4D\\ReadOnlyAttribute.cs",
+              "ToolTip": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u6218\u6597\u5355\u4F4D\\ReadOnlyAttribute.cs",
+              "RelativeToolTip": "Assets\\Script\\\u6218\u6597\u5355\u4F4D\\ReadOnlyAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:39:23.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BattleUnit.cs",
+              "DocumentMoniker": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u6218\u6597\u5355\u4F4D\\BattleUnit.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\\u6218\u6597\u5355\u4F4D\\BattleUnit.cs",
+              "ToolTip": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u6218\u6597\u5355\u4F4D\\BattleUnit.cs",
+              "RelativeToolTip": "Assets\\Script\\\u6218\u6597\u5355\u4F4D\\BattleUnit.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T10:04:04.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DouyinInteractiveTool.cs",
+              "DocumentMoniker": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u754C\u9762\u8DF3\u8F6C\u4E0E\u8FDE\u63A5\u5BA2\u6237\u7AEF\\DouyinInteractiveTool.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\\u754C\u9762\u8DF3\u8F6C\u4E0E\u8FDE\u63A5\u5BA2\u6237\u7AEF\\DouyinInteractiveTool.cs",
+              "ToolTip": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u754C\u9762\u8DF3\u8F6C\u4E0E\u8FDE\u63A5\u5BA2\u6237\u7AEF\\DouyinInteractiveTool.cs",
+              "RelativeToolTip": "Assets\\Script\\\u754C\u9762\u8DF3\u8F6C\u4E0E\u8FDE\u63A5\u5BA2\u6237\u7AEF\\DouyinInteractiveTool.cs",
+              "ViewState": "AgIAAC8CAAAAAAAAAAAMwD0CAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:44:16.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BattleSystem.cs",
+              "DocumentMoniker": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u6218\u6597\u7CFB\u7EDF\u7BA1\u7406\\BattleSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\\u6218\u6597\u7CFB\u7EDF\u7BA1\u7406\\BattleSystem.cs",
+              "ToolTip": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u6218\u6597\u7CFB\u7EDF\u7BA1\u7406\\BattleSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\\u6218\u6597\u7CFB\u7EDF\u7BA1\u7406\\BattleSystem.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwC8BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T08:55:24.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BattleDefines.cs",
+              "DocumentMoniker": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\BattleDefines.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BattleDefines.cs",
+              "ToolTip": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\BattleDefines.cs",
+              "RelativeToolTip": "Assets\\Script\\BattleDefines.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAhwDoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T08:41:50.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u6218\u6597\u5355\u4F4D\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\\u6218\u6597\u5355\u4F4D\\Player.cs",
+              "ToolTip": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u6218\u6597\u5355\u4F4D\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\\u6218\u6597\u5355\u4F4D\\Player.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T08:26:20.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoldierPoolManager.cs",
+              "DocumentMoniker": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u5BF9\u8C61\u6C60\\SoldierPoolManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\\u5BF9\u8C61\u6C60\\SoldierPoolManager.cs",
+              "ToolTip": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u5BF9\u8C61\u6C60\\SoldierPoolManager.cs",
+              "RelativeToolTip": "Assets\\Script\\\u5BF9\u8C61\u6C60\\SoldierPoolManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T08:06:22.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Soldier.cs",
+              "DocumentMoniker": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u6218\u6597\u5355\u4F4D\\Soldier.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\\u6218\u6597\u5355\u4F4D\\Soldier.cs",
+              "ToolTip": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u6218\u6597\u5355\u4F4D\\Soldier.cs",
+              "RelativeToolTip": "Assets\\Script\\\u6218\u6597\u5355\u4F4D\\Soldier.cs",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAUwB0BAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:36:36.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u5BF9\u8C61\u6C60\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\\u5BF9\u8C61\u6C60\\ObjectPool.cs",
+              "ToolTip": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u5BF9\u8C61\u6C60\\ObjectPool.cs",
+              "RelativeToolTip": "Assets\\Script\\\u5BF9\u8C61\u6C60\\ObjectPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T09:09:26.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ButtonEventProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u754C\u9762\u8DF3\u8F6C\u4E0E\u8FDE\u63A5\u5BA2\u6237\u7AEF\\ButtonEventProcessor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\\u754C\u9762\u8DF3\u8F6C\u4E0E\u8FDE\u63A5\u5BA2\u6237\u7AEF\\ButtonEventProcessor.cs",
+              "ToolTip": "C:\\Users\\\u767D\\\u5BB6\\GIT\\Assets\\Script\\\u754C\u9762\u8DF3\u8F6C\u4E0E\u8FDE\u63A5\u5BA2\u6237\u7AEF\\ButtonEventProcessor.cs",
+              "RelativeToolTip": "Assets\\Script\\\u754C\u9762\u8DF3\u8F6C\u4E0E\u8FDE\u63A5\u5BA2\u6237\u7AEF\\ButtonEventProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T08:03:27.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
